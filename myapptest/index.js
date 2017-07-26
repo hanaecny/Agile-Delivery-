@@ -1,5 +1,5 @@
     layout
     content
 
-    Welcome to #{title}
+    Welcome to ME
     This world is meant to illustrate how the starter-kit works
